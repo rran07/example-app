@@ -1,1 +1,1 @@
-job_tags
+job_tagstagstagsapp_crudapp_crud
